@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello");
             Console.WriteLine("hello2");
+            Console.WriteLine("hello3");
+            var c = new Class1();
+            c.Write();
         }
     }
 }
