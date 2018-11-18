@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello");
             Console.WriteLine("hello2");
+            Class2 cs2 = new Class2();
+            cs2.Run();
         }
     }
 }
